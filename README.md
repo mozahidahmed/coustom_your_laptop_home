@@ -1,10 +1,7 @@
 
 
 
-- [More Live Wallpaper](https://moewalls.com/)
-- [Rainmetere](https://www.rainmeter.net/)
-- [Lively Wallpaper](https://www.rocksdanister.com/lively/)
 
-## End Result
+## Let's See Result
 
 ![Alt text](https://github.com/mir-hussain/lofi-cafe-desktop/blob/main/wall.png)
