@@ -1,12 +1,5 @@
 
-# Lofi Cafe Desktop setup
 
-## Required applications
-
-- Rainmeter
-- Lively Wallpaper
-
-## Download Links
 
 - [More Live Wallpaper](https://moewalls.com/)
 - [Rainmetere](https://www.rainmeter.net/)
